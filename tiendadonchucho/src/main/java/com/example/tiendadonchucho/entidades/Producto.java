@@ -43,7 +43,6 @@ public class Producto {
     private Double peso;
     @Column(name = "estado")
 
-
     private Boolean estado;
     @Column(name = "proveedor")
 

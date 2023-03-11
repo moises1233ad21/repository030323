@@ -8,5 +8,4 @@ import org.springframework.web.bind.annotation.RequestBody;
 
 @Repository
 public interface ProductoRepositorio extends JpaRepository<Producto,Integer> {
-
 }
